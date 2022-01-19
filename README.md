@@ -1,2 +1,2 @@
 # My-site-code
-visit at [paid.ml](http:\\paid.ml)
+visit at [paid.ml](http://paid.ml/)
